@@ -4,6 +4,12 @@
 **rajjak1-shaikh/rajjak1-shaikh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+⚡ About Me :
+🎓 Bachlor's of Science in major Computer Science(B.Sc) (2023–2026)
+💻 Web Developer | UI/UX Designer
+🔭 Currently building a AI based personalized learning platform using python, ml and data science
+🛠 Exploring MongoDB, React, and cloud platforms for modern deployment
+🧠 Always learning something new and experimenting with real-world projects
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
