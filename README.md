@@ -1,8 +1,3 @@
-## Hi there 👋
- I'm Rajjak Shaikh from Latur, Maharashtra, India. I'm a passionate front-end developer.
-<!--
-**rajjak1-shaikh/rajjak1-shaikh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 # 💫 About Me:
 🎓 Bachlor's of Science in major Computer Science(B.Sc) (2023–2026)<br>💻 Web Developer | UI/UX Designer<br>🔭 Currently building a AI based personalized learning platform using python, ml and data science<br>🛠 Exploring MongoDB, React, and cloud platforms for modern deployment<br>🧠 Always learning something new and experimenting with real-world projects<br>
 
@@ -22,15 +17,6 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=rajjak1-shaikh&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=rajjak1-shaikh&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=rajjak1-shaikh&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=rajjak1-shaikh&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rajjak1-shaikh&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=rajjak1-shaikh&icon=0&color=0)](https://visitcount.itsvg.in)
