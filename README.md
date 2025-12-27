@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+ I'm Rajjak Shaikh from Latur, Maharashtra, India. I'm a passionate front-end developer.
 <!--
 **rajjak1-shaikh/rajjak1-shaikh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
