@@ -1,4 +1,5 @@
-Hey there! 👋 I'm Rajjak Shaikh from Latur, Maharashtra, India. I'm a passionate front-end developer.
+Hey there! 👋 I'm Rajjak Shaikh from Latur, Maharashtra, India. I'm a passionate front-end developer.Computer Science Student | Full-Stack Web Developer | Python, Flask, HTML, CSS, JavaScript | AI & Data Science Enthusiast
+
 # 💫 About Me:
 🎓 Bachlor's of Science in major Computer Science(B.Sc) (2023–2026)<br>💻 Web Developer | UI/UX Designer<br>🔭 Currently building a AI based personalized learning platform using python, ml and data science<br>🛠 Exploring MongoDB, React, and cloud platforms for modern deployment<br>🧠 Always learning something new and experimenting with real-world projects<br>
 
